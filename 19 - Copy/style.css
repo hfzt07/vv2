@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'ini';
+    src: url(overpass/overpass-bold.otf);
+}
+
+@font-face {
+    font-family: 'ini2';
+    src: url(overpass/overpass-light.otf);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+audio {
+    display: none;
+}
+
+body {
+    background-color: #F9F9E0;
+}
+
+/*PAGE 1*/
+
+.a1 {
+    text-align: center;
+    padding-top: 200px;
+    font-size: xx-large;
+}
+
+.a2 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.a3 {
+    size: 3000px;
+    border: none;
+    padding: 15px 32px;
+    background-color: #072541;
+    color: #FBECB2;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*PAGE 2*/
+
+.heading {
+    text-align: center;
+    font-family: 'ini';
+}
+
+.h2 {
+    font-size: x-large;
+}
+
+.s1 img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.s2 {
+    margin: 10px;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b3  {
+    background-color: #2B2A4C;
+    color: #F0ECE5;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    font-family: 'ini';
+    font-size: larger;
+}
+
+.j1 {
+    font-family: 'ini';
+    font-size: xx-large;
+}
+
+.j2 {
+    font-family: 'ini2';
+    justify-content: center;
+    font-size: x-large;
+}
+
+.footnote {
+    padding-top: 250px;
+    font-family: 'ini2';
+}
+
+.footnote {
+    font-family: 'ini2';
+}
